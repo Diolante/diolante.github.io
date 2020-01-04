@@ -1,57 +1,55 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Douglas R Violante",
+    "label": "B.Sc Student of Computer Engineering",
+    "picture": "https://diolante.github.io/images/molly.png",
+    "email": "douglasviolante@alunos.utfpr.edu.br",
+    "phone": "",
+    "website": "https://diolante.github.io",
+    "summary": "",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Cornélio Procópio",
+      "countryCode": "BRA",
+      "region": "Paraná"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Diolante",
+        "url": "http://github.com/diolante"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Douglas Violante",
+        "url": "http://linkedin.com/in/douglas-violante"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Image Processing",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Cyber Security",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Telecommunications",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Computer Networks",
       "keywords": [
       ]
     }
@@ -64,29 +62,25 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Linux",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Universidade Tecnológica Federal do Paraná, Cornélio Procópio, PR",
+      "area": "Computer Engineering (expected January, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-01-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
