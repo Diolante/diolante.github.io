@@ -11,7 +11,7 @@
       "address": "",
       "postalCode": "",
       "city": "Cornélio Procópio",
-      "countryCode": "BRA",
+      "countryCode": "BR",
       "region": "Paraná"
     },
     "profiles": [
@@ -50,6 +50,11 @@
     },
     {
       "name": "Computer Networks",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Business Intelligence",
       "keywords": [
       ]
     }
