@@ -93,7 +93,7 @@
     {
       "organization": "VisionSat",
       "website": "",
-      "position": "Software Engineer",
+      "position": "Volunteer in Software Engineering",
       "startDate": "2019-09-01",
       "endDate": "",
       "summary": "Development of Mini-Satellites know as Cubesats and CanSats",
@@ -106,7 +106,7 @@
     {
       "organization": "Equipe Rocket",
       "website": "",
-      "position": "Systems Engineer",
+      "position": "Volunteer in Systems Engineering",
       "startDate": "2018-07-01",
       "endDate": "2019-07-01",
       "summary": "Development of Amateur Rockets to Competition",
@@ -120,7 +120,7 @@
     {
       "organization": "CNPq - UTFPR",
       "website": "",
-      "position": "Undergraduate Research Student",
+      "position": "Undergraduate Research Project Member",
       "startDate": "2018-06-01",
       "endDate": "2019-06-01",
       "summary": "Codification of a tool in Python to calculate similarity between genes, tested in model organisms",
