@@ -115,44 +115,47 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Equipe Rocket",
+      "website": "",
+      "position": "Systems Engineer",
+      "startDate": "2018-07-01",
+      "endDate": "2019-07-01",
+      "summary": "Development of Amateur Rockets to Competition",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Discussion of Methods and Approaches",
+        "Development in Python of Real-Time Ground Reception Systems",
+        "Initial analysis of rocket's onboard computer",
+        "Writing of Technical Reports and Budgets Reports"
       ]
     },
     {
-      "organization": "",
+      "organization": "VisionSat",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
+      "position": "Software Engineer",
+      "startDate": "2019-09-01",
       "endDate": "",
-      "summary": "",
+      "summary": "Development of Mini-Satellites know as Cubesats and CanSats",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Project, Analysis and Codification of Data Reading and Storage Systems from embedeed sensors in Arduino - C",
+        "Test and Validation of Built System",
+        "Discussion about Approaches and Methods"
+      ]
+    },
+    {
+      "organization": "CNPq - UTFPR",
+      "website": "",
+      "position": "Undergraduate Research Student",
+      "startDate": "2018-06-01",
+      "endDate": "2019-06-01",
+      "summary": "Codification of a tool in Python to calculate similarity between genes, tested in model organisms",
+      "highlights": [
+        "Literature Review",
+        "Python Codification and Test of the Built Tool",
+        "Presentation at External Event"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
