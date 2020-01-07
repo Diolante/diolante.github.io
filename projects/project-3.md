@@ -11,7 +11,7 @@ labels:
   - KEGG
   - IGraph
   - Cytoscape
-summary: A tool developed to determine the similarity between given genes, and also generate the acyclic graph of the whole model organism.
+summary: A tool developed to determine the similarity between given set of genes through the generated acyclic graph of the  selected organism.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/graphKegg.png">
