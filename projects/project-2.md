@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: 
 title: Um simples servidor web em Python
 permalink: projects/webserverPython
 # All dates must be YYYY-MM-DD format!
