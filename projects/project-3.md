@@ -22,5 +22,5 @@ hierarchic acyclic graph that is used to calculate the similarity of two genes i
 The libraries and tools used are, Python 3, IGraph and Cytoscape (To visually generate the graph from a file create by the built tool),
 also a file from an organism provided by Kyoto Encyclopedia of Genes and Genomes is needed.
 
-The methodology and formulas are still classified.
+The methodology and equations are still classified.
  
