@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Computer Networks",
+      "name": "SAP PP",
       "keywords": [
       ]
     },
@@ -90,7 +90,22 @@
       "gpa": "",
       "courses": [
       ]
-    }
+    },
+    {
+      "institution": "University of Maryland, COURSERA, Online MOOC",
+      "area": "Cybersecurity Specialization (expected March, 2021)",
+      "studyType": "MOOC Specialization",
+      "startDate": "2019-12-15",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+        Usable Security,
+        Software Security,
+        Cryptography,
+        Hardware Security,
+        Cybersecurity Capstone Project
+      ]
+    } 
   ],
   "work": [
   ],
