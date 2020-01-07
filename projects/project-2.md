@@ -11,7 +11,7 @@ labels:
   - Server
   - Web
   - Python
-summary: An simple web server made in Python 3 for simple HTML pages, does not support media.
+summary: A simple web server made in Python 3 for simple HTML pages, does not support media.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/Pagina1WebServer.png">
