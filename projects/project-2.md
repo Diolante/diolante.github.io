@@ -14,7 +14,7 @@ labels:
 summary: An simple web server made in Python 3 for simple HTML pages, does not support media.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/Pagina1WebServer.png">
 
 A simple project made to support simple HTML pages without any media and for Windows only, using Sockets library and Python 3 language. 
  
