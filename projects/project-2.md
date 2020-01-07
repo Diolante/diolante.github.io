@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: 
-title: Um simples servidor web em Python
+title: A Simple Python Web Server
 permalink: projects/webserverPython
 # All dates must be YYYY-MM-DD format!
 date: 2019-06-01
