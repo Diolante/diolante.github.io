@@ -14,7 +14,10 @@ labels:
 summary: A simple approch of Time Division Multiplexation (TDM) and Amplitude Shift Keying (ASK-OOK) algoritms, developed in C++, with the objetive of keep C++ skills refined.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/graphKegg.png">
+<img class="ui medium right floated rounded image" src="../images/TDMplot.png">
+
+<img class="ui medium right floated rounded image" src="../images/ASKplot.png">
+
 
 A simple introductory project made by myself as intended to be an introduction to SDR (Software Defined Radio) world, and a way to understand (TDM) Time Division Multiplexation and 
 (ASK) Amplitude Shift Keying implementations in C++. 
