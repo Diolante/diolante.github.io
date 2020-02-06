@@ -52,17 +52,12 @@
       "name": "SAP PP",
       "keywords": [
       ]
-    },
-    {
-      "name": "Business Intelligence",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Intermediate to Advanced",
       "keywords": [
         "C",
         "C++",
@@ -72,10 +67,11 @@
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Intermediate to Advanced",
       "keywords": [
         "Linux",
         "Git/GitHub",
+        "Bash Script"
         "Windows"
       ]
     }
