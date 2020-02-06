@@ -14,7 +14,7 @@ labels:
 summary: A simple approch of Time Division Multiplexation (TDM) and Amplitude Shift Keying (ASK-OOK) algoritms, developed in C++, with the objetive of keep C++ skills refined.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/TDMplot.png">
   <img class="ui image" src="../images/ASKplot.png">
 </div>
