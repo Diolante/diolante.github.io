@@ -10,7 +10,7 @@ labels:
   - Signal Processing
   - LSTM
   - Python
-  - AI
+  - Keras
   - Biology
 summary: An inaccurate try with LSTM architecture, aiming to solve a Kaggle Competition
 ---
