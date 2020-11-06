@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "Douglas V",
-        "url": "www.linkedin.com/in/douglas-rv"
+        "username": "Douglas Violante",
+        "url": "www.linkedin.com/in/douglas-violante"
       }
     ]
   },
@@ -34,22 +34,17 @@
       ]
     },
     {
-      "name": "Cyber Security",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "Telecommunications",
+      "name": "DevOps and Azure",
       "keywords": [
       ]
     },
     {
-      "name": "SAP PP",
+      "name": "Telecommunications",
       "keywords": [
       ]
     }
@@ -63,6 +58,7 @@
         "C++",
         "Java",
         "Python"
+        "C#"
       ]
     },
     {
@@ -107,11 +103,24 @@
   ],
   "volunteer": [
     {
+      "organization": "TATA Consultancy Services",
+      "website": "https://www.tcs.com/",
+      "position": "Software Development Trainee",
+      "startDate": "2020-09-22",
+      "endDate": "",
+      "summary": "Trainee at Software Development area, currently on remote training (start september)",
+      "highlights": [
+        "Assigned to a project of a banking company",
+        "Training in Web and Desktop technologies, with focus in .Net area",
+        "Currently at remote working"
+      ]
+    },
+    {
       "organization": "VisionSat",
       "website": "",
       "position": "Volunteer in Software Engineering",
       "startDate": "2019-09-01",
-      "endDate": "",
+      "endDate": "2020-01-01",
       "summary": "Development of Mini-Satellites know as Cubesats and CanSats",
       "highlights": [
         "Project, Analysis and Codification of Data Reading and Storage Systems from embedeed sensors in Arduino - C",
