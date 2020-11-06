@@ -91,23 +91,21 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        Usable Security,
-        Software Security,
-        Cryptography,
-        Hardware Security,
-        Cybersecurity Capstone Project
+        "Usable Security",
+        "Software Security",
+        "Cryptography",
+        "Hardware Security",
+        "Cybersecurity Capstone Project"
       ]
     } 
   ],
   "work": [
-  ],
-  "volunteer": [
     {
-      "organization": "TATA Consultancy Services",
-      "website": "https://www.tcs.com/",
+      "company": "TATA Consultancy Services",
       "position": "Software Development Trainee",
+      "website": "https://www.tcs.com/",
       "startDate": "2020-09-22",
-      "endDate": "",
+      "endDate": "Present",
       "summary": "Trainee at Software Development area, currently on remote training (start september)",
       "highlights": [
         "Assigned to a project of a banking company",
@@ -115,6 +113,8 @@
         "Currently at remote working"
       ]
     },
+  ],
+  "volunteer": [
     {
       "organization": "VisionSat",
       "website": "",
