@@ -15,6 +15,10 @@ labels:
 summary: A basic point cloud viewer, with an educational purpose in C++ for myself.
 ---
 
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/pointcloudviewer.png">
+</div>
+
 A basic point cloud viewer, made with C++11 and powered by modern OpenGL, is capable of loading and generate a 
 visualization from small to large point cloud datasets, also is able to highlight points with colors (RGB).
 
