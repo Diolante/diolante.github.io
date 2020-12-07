@@ -88,25 +88,25 @@
       "area": "Cybersecurity Specialization (expected March, 2021)",
       "studyType": "MOOC Specialization",
       "startDate": "2019-12-15",
-      "endDate": "Present",
+      "endDate": "Dropped",
       "gpa": "",
       "courses": [
         "Usable Security",
         "Software Security",
         "Cryptography",
         "Hardware Security",
-        "Cybersecurity Capstone Project"
+        "Cybersecurity Capstone Project (Incomplete)"
       ]
     } 
   ],
   "work": [
     {
       "company": "TATA Consultancy Services",
-      "position": "Software Development Trainee",
+      "position": "Software Engineer Trainee",
       "website": "https://www.tcs.com/",
       "startDate": "2020-09-22",
       "endDate": "Present",
-      "summary": "Trainee at Software Development area, currently on remote training (start september)",
+      "summary": "Trainee at Software Engineering area, currently on remote training (start september)",
       "highlights": [
         "Assigned to a project of a banking company",
         "Training in Web and Desktop technologies, with focus in .Net area",
