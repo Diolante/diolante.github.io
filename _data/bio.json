@@ -9,7 +9,7 @@
     "summary": "",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "86300000",
       "city": "Cornélio Procópio",
       "countryCode": "BR",
       "region": "Paraná"
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "Image Processing",
+      "name": "Computer Vision",
       "keywords": [
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "DevOps and Azure",
+      "name": "DevOps and Cloud",
       "keywords": [
       ]
     },
@@ -58,7 +58,8 @@
         "C++",
         "Java",
         "Python",
-        "C#"
+        "C# .Net",
+        "T-SQL"
       ]
     },
     {
@@ -106,11 +107,11 @@
       "website": "https://www.tcs.com/",
       "startDate": "2020-09-22",
       "endDate": "Present",
-      "summary": "Trainee at Software Engineering area, currently on remote training (start september)",
+      "summary": "Trainee of Software Engineering, development of solutions to a banking company, applying technologies like T-SQL, .Net, Angular and some others.",
       "highlights": [
-        "Assigned to a project of a banking company",
-        "Training in Web and Desktop technologies, with focus in .Net area",
-        "Currently at remote working"
+        "Assigned to a project of one of the greatest banking company in the country",
+        "Development of solutions involving T-SQL, .Net API, Angular",
+        "Currently at remote work"
       ]
     }
   ],
@@ -118,10 +119,10 @@
     {
       "organization": "VisionSat",
       "website": "",
-      "position": "Volunteer in Software Engineering",
+      "position": "Collaborator in Software Engineering",
       "startDate": "2019-09-01",
       "endDate": "2020-01-01",
-      "summary": "Development of Mini-Satellites know as Cubesats and CanSats",
+      "summary": "Development of Micro-Satellites know as Cubesats and CanSats",
       "highlights": [
         "Project, Analysis and Codification of Data Reading and Storage Systems from embedeed sensors in Arduino - C",
         "Test and Validation of Built System",
@@ -131,7 +132,7 @@
     {
       "organization": "Equipe Rocket",
       "website": "",
-      "position": "Volunteer in Systems Engineering",
+      "position": "Collaborator in Systems Engineering",
       "startDate": "2018-07-01",
       "endDate": "2019-07-01",
       "summary": "Development of Amateur Rockets to Competition",
